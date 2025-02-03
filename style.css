@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #f6f6f6;
+}
+
+.container__main {
+    display: flex;
+    align-items: center;
+}
+
+.titulo__destaque {
+    color: #22D4FD;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
